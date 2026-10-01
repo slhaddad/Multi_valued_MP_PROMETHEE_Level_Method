@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Lancer EMP_Promethee_Quasi_C_palier (Debug)",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build",
+      "program": "${workspaceFolder}/EMP_Promethee_Quasi_C_palier/bin/Debug/net10.0-windows/win-x64/EMP_Promethee_Quasi_C_palier.exe",
+      "args": [],
+      "cwd": "${workspaceFolder}/EMP_Promethee_Quasi_C_palier/bin/Debug/net10.0-windows/win-x64",
+      "stopAtEntry": false,
+      "console": "internalConsole"
+    }
+  ]
+}
